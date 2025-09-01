@@ -2,7 +2,8 @@
 PowerBI Dashboard Analysing Netflix Dataset
 
 Overview
-This project presents a **Power BI Dashboard** analyzing Netflix data.  
+This project presents a *Power BI Dashboard* analyzing Netflix data.  
+
 The analysis provides insights into:
 - Number of movies vs TV shows
 - Genre distribution
@@ -10,10 +11,7 @@ The analysis provides insights into:
 - Country-wise content availability
 Files in this Repository
 - `Netflix_Analysis.pbix` → Power BI dashboard file
-- `README.md` → Project documentation
-
-Dashboard Preview
-
+- `README.md` → Project documentation.
 
 How to Use
 1. Download the `.pbix` file from this repo.
