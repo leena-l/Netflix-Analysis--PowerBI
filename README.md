@@ -5,7 +5,7 @@ PowerBI Dashboard Analysing Netflix Dataset
 This project features a Power BI Dashboard that provides a comprehensive analysis of the Netflix dataset. The dashboard explores the evolution of Netflix's content library, identifying trends in genre popularity, audience ratings, and the historical growth of Movies vs. TV Shows from 1942 to 2021.
 
 
-#Key Metrics & Insights
+# Key Metrics & Insights
 
 1 - Content Volume: Analysis of 7,976 total shows and 4,286 unique directors.
 
@@ -18,7 +18,7 @@ This project features a Power BI Dashboard that provides a comprehensive analysi
 5 - Growth Trends: An area chart visualization capturing the exponential surge in content additions peaking between 2018 and 2020.
 
 
-#Technical Stack
+# Technical Stack
 
 Tool: Power BI Desktop
 Data Source: Netflix Dataset (Kaggle)
@@ -28,14 +28,14 @@ Techniques Used:
 3 - Visualization: Utilized Donut charts, Area charts, Bar charts, and KPI Cards for high-impact storytelling.
 
 
-#Repository Structure
+# Repository Structure
 
 File                      Description
 Netflix_Analysis.pbix     The interactive Power BI dashboard file
 README.md                 Project documentation and insights
 
 
-#How to Use:
+# How to Use:
 
 1.Clone the Repository
 2.Open the Project:
